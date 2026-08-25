@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+
+    display: flex;
+    justify-content: center;
+}
+
+.changelog {
+    width: 700px;
+    border: 2px solid black;
+    border-radius: 20px;
+    padding: 40px;  
+}
+
+.changelog h1 {
+    text-align: center;
+}
+
+.changelog p {
+    text-align: center;
+    color: gray;
+}
