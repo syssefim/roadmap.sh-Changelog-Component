@@ -16,7 +16,22 @@ body {
     text-align: center;
 }
 
-.changelog p {
+.changelog-header p {
     text-align: center;
+    color: grey;
+}
+
+.change {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.date {
+    width: 300px;
     color: gray;
+}
+
+.description {
+    flex: 1;   
 }
