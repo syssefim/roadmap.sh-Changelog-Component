@@ -12,6 +12,24 @@ A simple component for a website that displays a changelog.
 
 
 
+## 🌐 Live Demo
+Check out the deployed project here:
+👉 [View Live Site](https://syssefim.github.io/roadmap.sh-Changelog-Component/)
+
+
+---
+
+<div align="center">
+  <p>
+    Serafim Sharkov • 2026
+  </p>
+  <p>
+    <a href="https://github.com/syssefim">GitHub</a> • 
+    <a href="https://www.linkedin.com/in/serafim-sharkov/">LinkedIn</a>
+  </p>
+</div>
+
+
 <!-- Badge Reference Links -->
 [HTML5]: https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
 [HTML5-url]: https://developer.mozilla.org/en-US/docs/Web/HTML
